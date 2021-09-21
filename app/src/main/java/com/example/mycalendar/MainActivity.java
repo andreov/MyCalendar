@@ -53,7 +53,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        // jhkljlkjlkjlkjlkj lkjlkjlkjlkjlkjlkjlkj
 
     }
     private void clickBtnEnd(){
